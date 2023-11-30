@@ -1,5 +1,6 @@
 PROJECT NAME :- Hack2Assignment
-Before opening the link ensure runing json server  using command json-server --watch db.json at port 3000
+<p>Before opening the link ensure runing json server  using command json-server --watch db.json at port 3000</p>
+
 DEPLOYED LINK :- https://hackskill.vercel.app/
 
 <h2>Tech Stacks</h2>
