@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dashboard{
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    border: px solid red;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.dashboardTable{
+    border: 2px solid palevioletred;
+    width: 100%;
+    margin: 4% 0;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+th:hover {background-color: rgb(231, 160, 135);}
+
+td,th {
+    padding: 1%;
+}
+
+.resultTable{
+    border: 2px solid palevioletred;
+    text-align: center;
+
+}
+
+.resultTable>p{
+    padding: 1%;
+    font-weight: bold;
+}

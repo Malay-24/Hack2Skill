@@ -1,0 +1,42 @@
+{
+  
+  "users": [
+    {
+      "id": 1,
+      "name": "ram",
+      "age": 28,
+      "score": 85
+    },
+    {
+      "id": 2,
+      "name": "shyam",
+      "age": 32,
+      "score": 92
+    },
+    {
+      "id": 3,
+      "name": "rishi",
+      "age": 34,
+      "score": 93
+    },
+    {
+      "id": 4,
+      "name": "Jenny",
+      "age": 36,
+      "score": 96
+    },
+    {
+      "id": 5,
+      "name": "Penny",
+      "age": 46,
+      "score": 76
+    },
+    {
+      "id": 6,
+      "name": "tenny",
+      "age": 56,
+      "score": 86
+    }
+  ]
+
+}
